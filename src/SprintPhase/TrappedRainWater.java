@@ -11,8 +11,6 @@ public class TrappedRainWater {
         Stack stack = new Stack<>();
         s(0, arr, stack);
         
-
-
     }
 
     private static void s(int i, int[] arr, Stack stack) {
@@ -21,9 +19,10 @@ public class TrappedRainWater {
             return;
         }
         
-        s(i + 1, arr, stack);
+        
         stack.add(arr[i]);
         s(i + 1, arr, stack);
-        // stack.pop();
+        stack.pop();
+        s(i + 1, arr, stack);
     }
 }
