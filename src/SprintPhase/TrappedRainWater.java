@@ -18,8 +18,6 @@ public class TrappedRainWater {
             System.out.println(stack);
             return;
         }
-        
-        
         stack.add(arr[i]);
         s(i + 1, arr, stack);
         stack.pop();
