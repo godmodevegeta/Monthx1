@@ -16,7 +16,6 @@ public class Rexzz {
     }
     private static void pubset(int[] arr, Stack<Integer> stack, int i) {
         if (i == arr.length && stack != null) {
-            
             box.add(stack);
             return;
         }
