@@ -7,7 +7,15 @@ public class nihgt{
         List<Integer> box2 = new ArrayList<>();
 
         List<List<Integer>> moil = new ArrayList<>();
-        System.out.println(moil.add(box1));
-        System.out.println(moil.add(box2));
+        // System.out.println(moil.add(box1));
+        // System.out.println(moil.add(box2));
+
+        for (int i = 0; i < 5; ++i) {
+            System.out.println(i);
+        }
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
     }
+
 }
