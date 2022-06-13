@@ -3,19 +3,17 @@ package SheLikesItRough;
 import java.util.*;
 public class nihgt{
     public static void main(String[] args) {
-        Stack<Integer> box1 = new Stack<>();
-        List<Integer> box2 = new ArrayList<>();
-
-        List<List<Integer>> moil = new ArrayList<>();
-        // System.out.println(moil.add(box1));
-        // System.out.println(moil.add(box2));
-
-        for (int i = 0; i < 5; ++i) {
-            System.out.println(i);
+        int[] nums = {1,2,3,4};
+        List<List<Integer>> list = new ArrayList<>();
+        int k = nums.length;
+        for (int i = 0; i < k; i++) {
+            int start = 0, end = start + i;
+            while (start < k) {
+                
+            }
         }
-        for (int i = 0; i < 5; i++) {
-            System.out.println(i);
-        }
+        
+        
     }
 
 }
