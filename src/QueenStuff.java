@@ -2,12 +2,12 @@ import java.util.*;
 
 public class QueenStuff {
     public static List<List<String>> solveNQueens(int n) {
-        char[][] board = new char[n][n];
+        char[][] board = new char[n][n];    // initiate a square board of length "n"
         for (int i = 0; i < n; i++)
             for (int j = 0; j < n; j++)
-                board[i][j] = '.';
-        List<List<String>> res = new ArrayList<List<String>>();
-        dfs(board, 0, res);
+                board[i][j] = '.';      // traverse through each cells and place "empty" identifier
+        List<List<String>> res = new ArrayList<List<String>>();     // contains the set of possible boards with no conflicts
+        dfs(board, 0, res);     // retireve answer!!
         return res;
     }
 

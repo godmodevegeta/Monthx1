@@ -10,7 +10,7 @@ public class stringinsub {
             }
         }
         Set<String> list = new HashSet();
-
+        
         for (int window = 1; window < s.length(); window++) {
             int start = 0, end = window;
             while (start < s.length() - window) {
