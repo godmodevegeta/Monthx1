@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BasicStuff",
+            "request": "launch",
+            "mainClass": "WindowStuff.BasicStuff",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ittv01",
+            "request": "launch",
+            "mainClass": "BitStuffWise.ittv01",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionsManipulations",
+            "request": "launch",
+            "mainClass": "CollectionsManipulations",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch runner",
+            "request": "launch",
+            "mainClass": "GraphStuff.runner",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeapApp",
+            "request": "launch",
+            "mainClass": "HeapStuff.HeapApp",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueenStuff",
+            "request": "launch",
+            "mainClass": "QueenStuff",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BS",
+            "request": "launch",
+            "mainClass": "SearchInBinary.BS",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeIntervals",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.MergeIntervals",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumWindow",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.MinimumWindow",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueuePriority",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.QueuePriority",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rimmel",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.Rimmel",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Russel",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.Russel",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch nihgt",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.nihgt",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch rusk",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.rusk",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringinsub",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.stringinsub",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch subset",
+            "request": "launch",
+            "mainClass": "SheLikesItRough.subset",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMtrix",
+            "request": "launch",
+            "mainClass": "SpiralMtrix",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListStruff",
+            "request": "launch",
+            "mainClass": "SprintPhase.ListStruff",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rexzz",
+            "request": "launch",
+            "mainClass": "SprintPhase.Rexzz",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrappedRainWater",
+            "request": "launch",
+            "mainClass": "SprintPhase.TrappedRainWater",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeStuff",
+            "request": "launch",
+            "mainClass": "SprintPhase.TreeStuff",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "SprintPhase.factorial",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NearestGreatestLeft",
+            "request": "launch",
+            "mainClass": "StackStuff.NearestGreatestLeft",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NearestGreatestRight",
+            "request": "launch",
+            "mainClass": "StackStuff.NearestGreatestRight",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NearestSmallestLeft",
+            "request": "launch",
+            "mainClass": "StackStuff.NearestSmallestLeft",
+            "projectName": "Monthx1_6e2d1ea5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NearestSmallestRight",
+            "request": "launch",
+            "mainClass": "StackStuff.NearestSmallestRight",
+            "projectName": "Monthx1_6e2d1ea5"
+        }
+    ]
+}
